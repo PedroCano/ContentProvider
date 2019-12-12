@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="btBuscarContacto">Buscar contactos</string>
+
+    <string name="tituloExplicacion">Permisos requeridos para ver los contactos</string>
+    <string name="mensajeExplicacion">Permisos necesarios para mostrar los contactos</string>
+
+    <string name="respSi">Sí</string>
+    <string name="respNo">No</string>
+
+    <string name="denegado">Permiso denegado</string>
+    <string name="contactos">Contactos</string>
+</resources>
